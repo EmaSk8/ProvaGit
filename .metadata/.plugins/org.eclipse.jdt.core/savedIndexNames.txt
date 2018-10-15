@@ -1,0 +1,20 @@
+INDEX VERSION 1.131+C:\Users\ITConnect-Giancarlo\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
+430435164.index
+1227361535.index
+3713821561.index
+3810595644.index
+2423459237.index
+519760913.index
+1519506453.index
+2957391594.index
+2143651441.index
+3292984095.index
+907907464.index
+997612121.index
+1965921583.index
+2855870210.index
+2453683709.index
+3327237413.index
+914156727.index
+4257766480.index
+2371463204.index
